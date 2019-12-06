@@ -17,4 +17,5 @@
   * [Docker-stack-with-dockerhub-images.](intellipath-docker-assignment/docker-stack-with-dockerhub-images..md)
 * [Github Configuration](https://gist.github.com/hemanth22/7434ef677cd7d5644024babae25b72de)
 * [Github Cheatbook](https://gist.github.com/hemanth22/f298e181fb2f8bc8be3b98494c730a1d)
+* [Ansible Configuration](https://raw.githubusercontent.com/ansible/ansible/devel/examples/ansible.cfg)
 
