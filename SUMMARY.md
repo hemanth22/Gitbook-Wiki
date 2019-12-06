@@ -18,4 +18,6 @@
 * [Github Configuration](https://gist.github.com/hemanth22/7434ef677cd7d5644024babae25b72de)
 * [Github Cheatbook](https://gist.github.com/hemanth22/f298e181fb2f8bc8be3b98494c730a1d)
 * [Ansible Configuration](https://raw.githubusercontent.com/ansible/ansible/devel/examples/ansible.cfg)
+* [Creating issues using github api if travis build is failed.](https://hemanth22hemu.wordpress.com/2018/10/23/creating-issues-using-github-api-if-travis-build-is-failed/)
+* [How to test java project using docker in Travis CI without Maven](https://hemanth22hemu.wordpress.com/2018/06/15/how-to-test-java-project-using-docker-in-travis-ci-without-maven/)
 
