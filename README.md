@@ -1,4 +1,4 @@
-# Home
+# Butler Wiki
 
 Welcome to the ansible-role-butler wiki!
 

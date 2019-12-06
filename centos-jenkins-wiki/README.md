@@ -1,4 +1,4 @@
-# Home
+# CentOS Jenkins Wiki
 
 Welcome to the CentOSJenkins wiki!
 
